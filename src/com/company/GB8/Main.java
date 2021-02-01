@@ -74,5 +74,4 @@ public class Main {
         System.out.println("Formula2 Total time: " + (endTime - startTime) + "ms");
         System.out.println(arr[h]);
     }
-
 }
